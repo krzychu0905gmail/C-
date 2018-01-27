@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim900", "nfrnew\Sim900.csproj", "{DC58567F-D3DB-44D1-9CD1-7F864B78C224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC58567F-D3DB-44D1-9CD1-7F864B78C224}.Debug|x86.ActiveCfg = Debug|x86
+		{DC58567F-D3DB-44D1-9CD1-7F864B78C224}.Debug|x86.Build.0 = Debug|x86
+		{DC58567F-D3DB-44D1-9CD1-7F864B78C224}.Release|x86.ActiveCfg = Release|x86
+		{DC58567F-D3DB-44D1-9CD1-7F864B78C224}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1317BF51-165C-4F3D-B9F8-520DDB2A5254}
+	EndGlobalSection
+EndGlobal
